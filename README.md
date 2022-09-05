@@ -1,2 +1,2 @@
-# tugas1-github-msib3
+# tugas1-github-msib
 Tugas 1 Materi Github MSIB 3
